@@ -1,12 +1,12 @@
 # Maize_diseases- Knowledge-Based System
-## 📌 Project Overview
+##  Project Overview
 
 The **Maize Diseases Knowledge-Based System** is an expert system designed to assist in the identification and analysis of maize diseases based on observable symptoms and environmental conditions.
 The system combines **knowledge representation**, **rule-based reasoning**, a **MariaDB relational database**, and a **Streamlit web interface** to provide an interactive decision-support tool.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * To model expert agricultural knowledge using facts and rules
 * To store and manage disease knowledge in a relational database
