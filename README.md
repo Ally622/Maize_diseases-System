@@ -15,7 +15,7 @@ The system combines **knowledge representation**, **rule-based reasoning**, a **
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 The system consists of four main layers:
 
@@ -26,7 +26,7 @@ The system consists of four main layers:
 
 ---
 
-## 🗂️ Knowledge Base Design
+## Knowledge Base Design
 
 The knowledge base represents expert knowledge as **facts** distributed across six tables:
 
@@ -39,7 +39,7 @@ The knowledge base represents expert knowledge as **facts** distributed across s
 | `co_occurs`    | Diseases that commonly appear together        |
 | `severe_under` | Conditions under which diseases become severe |
 
-### 📊 Total Knowledge Facts
+###  Total Knowledge Facts
 
 The system currently contains **104 facts**, distributed as follows:
 
@@ -54,7 +54,7 @@ Each row in the database represents one expert-derived fact.
 
 ---
 
-## 🧩 Inference Logic
+##  Inference Logic
 
 The system reasons by:
 
@@ -70,7 +70,7 @@ This approach reflects **forward-chaining rule-based reasoning**, commonly used 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology   | Purpose                         |
 | ------------ | ------------------------------- |
